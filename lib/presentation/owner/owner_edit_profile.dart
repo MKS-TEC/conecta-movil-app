@@ -1076,7 +1076,7 @@ class _OwnerEditProfileState extends State<OwnerEditProfile> {
                 inputKey: _documentNumberFormKey,
                 controller: _documentNumberController,
                 keyboardType: TextInputType.text,
-                hintText: 'Número de documento', 
+                hintText: 'Número documento', 
                 onChanged: (value) => _onDocumentNumberChanged(value!),
                 validator: (value) => _documentNumberValidator(value!),
               ),
