@@ -1,0 +1,24 @@
+[
+    {
+        "eventId": "1",
+        "title": "Vacunacion para perros",
+        "location": "Av. Mariscal La Mar 835, Miraflores 15074",
+        "imageUrl": "https://i.pinimg.com/564x/d1/19/83/d11983c025f9fad06527650fd0215fa3.jpg",
+        "isPrivate": false,
+        "description": "Trae a tu mascota perruna al evento de diferentes vacunas",
+        "tags": ["Vacunacion", "Perros"],
+        "date": "2012-04-23T18:25:43.511Z",
+        "features": { "eventCategory": "Cuidado", "species": "Perro", "breed": "All" }
+    },
+    {
+        "eventId": "2",
+        "title": "Tu perra hembra fashion",
+        "location": "Av. Mariscal La Mar 835, Miraflores 15074",
+        "imageUrl": "https://i.pinimg.com/736x/ec/ed/a5/eceda56f8b34fbab19beece6259fe2dd.jpg",
+        "isPrivate": false,
+        "description": "Por que tu perrita hembra tambien merece verse bella",
+        "tags": ["Fashion", "Perros"],
+        "date": "2012-04-23T18:25:43.511Z",
+        "features": { "eventCategory": "Cuidado", "species": "Perro", "breed": "All" }
+    }
+]

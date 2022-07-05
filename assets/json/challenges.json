@@ -1,0 +1,11 @@
+[
+    {
+        "challengeId": "1",
+        "title": "Completar perfil",
+        "description": "Completa el perfil tuyo y de tu mascota para recibir Pet Points",
+        "gamificationPoints": 1000,
+        "marketPoints": 0,
+        "imageUrl": "https://i.pinimg.com/564x/d1/19/83/d11983c025f9fad06527650fd0215fa3.jpg",
+        "status": "done"
+    }
+]

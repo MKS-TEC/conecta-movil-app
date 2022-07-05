@@ -1,0 +1,26 @@
+[
+    {
+        "challengeActivityId": "1",
+        "title": "Completar tu información personal",
+        "associatedAppEvent": "OwnerProfileCompleted",
+        "status": "pending"
+    },
+    {
+        "challengeActivityId": "2",
+        "title": "Completar información de tu mascota",
+        "associatedAppEvent": "PetProfileCompleted",
+        "status": "pending"
+    },
+    {
+        "challengeActivityId": "3",
+        "title": "Llenar el peso de tu mascota",
+        "associatedAppEvent": "WeightCompleted",
+        "status": "pending"
+    },
+    {
+        "challengeActivityId": "4",
+        "title": "Llenar las vacunas aplicadas a tu mascota",
+        "associatedAppEvent": "VaccineCompleted",
+        "status": "pending"
+    }
+]
